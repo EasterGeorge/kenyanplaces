@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "340775160531",
+    "firebase_url": "https://kenyatravels-5877e.firebaseio.com",
+    "project_id": "kenyatravels-5877e",
+    "storage_bucket": "kenyatravels-5877e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340775160531:android:bf931cfa758cc620e6e226",
+        "android_client_info": {
+          "package_name": "easter.george.kenyatravels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "340775160531-tblc7v69gbc8i6fkbasum9i98kcdf936.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "easter.george.kenyatravels",
+            "certificate_hash": "c34515ad227f1424400eac66ae5198a77cdb7f03"
+          }
+        },
+        {
+          "client_id": "340775160531-dn9t2pk2ihlk81kpj0c8pf3v4793bscu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMmgJXqx3JeKvcb-jvmOdRK-cja_Y95yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "340775160531-dn9t2pk2ihlk81kpj0c8pf3v4793bscu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
